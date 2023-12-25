@@ -13,4 +13,3 @@ https://github.com/usaketh/PageByPage/assets/64151405/d82e9e94-31c1-4582-899d-7d
 
 Try it out: https://react-pagination20.netlify.app/
 
-
